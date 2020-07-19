@@ -5,12 +5,12 @@ This is android application is useful for the every person to have a one click a
 
 ## Langauge and Framework
 
-*Java
-*XML
-*Firebase
+* Java
+* XML
+* Firebase
 
 ## Dir Structure
 
-*Android
-*Firebase
-*Java
+* Android
+* Firebase
+* Java
